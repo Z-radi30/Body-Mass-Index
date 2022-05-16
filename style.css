@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    background-image: url(./fitness.jpg);
+    width: 400px;
+    height: 519px;
+    margin: 170px auto auto;
+    border: 6px solid black;
+    border-radius: 15px;
+    background-size: cover;
+}
+.btns{
+    text-align: center;
+    transition: all ease 0.5s;
+    border-radius: 5px;
+
+}
+#height, #weight{
+    width: 128px;
+    height: 25px;
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+button{
+    height: 29px;
+    width: 100px;
+    border-radius: 5px;
+
+}
+
+#height{
+    margin-top: 200px;
+}
